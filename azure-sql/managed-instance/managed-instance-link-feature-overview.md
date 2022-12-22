@@ -23,7 +23,7 @@ If you have product improvement suggestions, comments, or you want to report iss
 
 The Managed Instance link feature uses distributed availability groups to extend your SQL Server on-premises availability group hosted anywhere to Azure SQL Managed Instance in a safe and secure manner, replicating data in near real-time.
 
-The solution supports single-node systems without existing availability groups, or multiple node systems with existing availability groups.  The link supports single node SQL Server instances without existing availability groups, and also multiple-node SQL Server instances with existing availability groups. Through the link, you can use the modern benefits of Azure without migrating your entire SQL Server data estate to the cloud.
+The solution supports single-node systems without existing availability groups, or multiple node systems with existing availability groups.  Through the link, you can use the modern benefits of Azure without migrating your entire SQL Server data estate to the cloud.
 
 The link feature currently offers the following functionality:
 
